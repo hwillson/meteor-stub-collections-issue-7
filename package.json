@@ -1,0 +1,14 @@
+{
+  "name": "meteor-stub-collections-issue-7",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --port 3100 --driver-package practicalmeteor:mocha"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  },
+  "devDependencies": {
+    "faker": "^3.1.0"
+  }
+}
